@@ -1,3 +1,3 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot is a [Boot.dev](https://www.boot.dev) mini-project that I completed in Nov'25 to learn git.
